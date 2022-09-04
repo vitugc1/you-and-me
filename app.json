@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "you-and-me",
+    "slug": "you-and-me",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
