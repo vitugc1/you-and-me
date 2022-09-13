@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "446081275267",
+    "project_id": "youandme-3641e",
+    "storage_bucket": "youandme-3641e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446081275267:android:096b40588571f9c32e12b6",
+        "android_client_info": {
+          "package_name": "com.youandme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446081275267-ioejhiovt9guek9a5rdrhsr6s55hbl8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3cJqSJ1xi5tr4lWYCJW7-0yi21LBK9kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446081275267-ioejhiovt9guek9a5rdrhsr6s55hbl8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
